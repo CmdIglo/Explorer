@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="C:\Users\maxwe\OneDrive\Desktop\Projects\git\Explorer\desktop\desktop\src\main\java\com\explorer\App.java">
+<error line="3" severity="error" message="Der erste Satz sollte mit einem Punkt enden." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+</checkstyle>
